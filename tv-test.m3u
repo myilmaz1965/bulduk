@@ -1,0 +1,72 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRT1.png",TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTHABER.png",TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTTURK.png",TRT Türk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTMUZIK.png",TRT Müzik
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTCOCUK.png",TRT Çocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+
+#EXTINF:-1,Ahaber hd
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=eAuKy-P9ZS5TCj3ZeN92bw&e=1577675328&SessionID=1.3.1148039697.1577630127
+
+#EXTINF:-1,Atv
+https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,Kanal-d
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,Star tv
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Show TV
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,Fox TV
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,Kanal-7
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,TV 8
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/chunklist_b3128000.m3u8
+#EXTINF:-1, TGRT Haber HD
+https://tgrt.streamencoding.com/tgrt_haber/yuksek.m3u8
+#EXTINF:-1,A Spor
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1,TV 8.5
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_hd.smil/chunklist_b564000.m3u8
+#EXTINF:-1,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist-uf4prudfc_b2328000_sltur.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTAVAZ.png",TRT Avaz
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTWORLD.png",TRT World
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:0 tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRTBELGESEL.png",TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/tv_logo/p_TRT3TBMMTV.png",TRT MeclisTV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+
+#EXTINF:-1  group-title="Radyolar" tvg-logo="http://www.trt.net.tr/img/logolar/win8/rd_logo/p_radyo1.png",Radyo 1
+http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/win8/rd_logo/p_radyo3.png",Radyo 3
+http://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/win8/rd_logo/p_trtfm.png",TRT FM radyo
+http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/win8/rd_logo/p_trtturku.png",TRT Türkü radyo
+http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.trt.net.tr/img/logolar/win8/rd_logo/p_nagme.png", TRT ağme radyo
+http://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8
